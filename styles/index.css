@@ -98,6 +98,7 @@ banner .logo img {
     border-image: linear-gradient(#3BA1CD, #1572B7);
     border-image-slice: 10;
     border-radius: 30px;
+    margin-bottom: 60px;
 }
 
 #course-content {
