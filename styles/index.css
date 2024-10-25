@@ -146,3 +146,19 @@ banner .logo img {
     max-width: 250px;
     text-shadow: 3px 2px #33a8d8;
 }
+
+#professional-challenges {
+    text-align: center;
+    width: 800px;
+}
+
+#professional-challenges img {
+    margin: 32px 0;
+}
+
+footer {
+    padding: 60px 0;
+    text-align: center;
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    border-top: 1px solid #33a8d880;
+}
