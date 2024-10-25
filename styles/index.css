@@ -162,3 +162,13 @@ footer {
     background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
     border-top: 1px solid #33a8d880;
 }
+
+footer .dio-logo {
+    width: 300px !important;
+}
+
+footer a {
+    color: #33a8d8;
+    font-weight: bold !important;
+    text-decoration: none;
+}
